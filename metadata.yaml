@@ -1,0 +1,28 @@
+_repo: The-Precipice--A-Novel_12177
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Peattie, Elia Wilkinson
+    alias: Wilkinson, Elia
+    birthdate: 1862
+    deathdate: 1935
+    gutenberg_agent_id: '731'
+    url: http://www.gutenberg.org/2009/agents/731
+    wikipedia: http://en.wikipedia.org/wiki/Elia_W._Peattie
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social and moral questions -- Fiction'
+- !lcsh 'Feminist fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The Precipice: A Novel'
+url: http://www.gutenberg.org/ebooks/12177
